@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="InsurCast">
+  <title>InsurCast</title>
+  <circle cx="400" cy="400" r="387" fill="#EE5D00"/>
+  <circle cx="400" cy="400" r="345" fill="#0A1440"/>
+  <path fill="#050A24" transform="translate(12 18)" d="M165 208.4375 A61.3125 61.3125 0 0 1 226.3125 147.125 H563.6875 A61.3125 61.3125 0 0 1 625 208.4375 V409.375 C625 539.375 495 657.875 395 687.875 C295 657.875 165 539.375 165 409.375 Z"/>
+  <clipPath id="ic-mark"><path d="M165 208.4375 A61.3125 61.3125 0 0 1 226.3125 147.125 H563.6875 A61.3125 61.3125 0 0 1 625 208.4375 V409.375 C625 539.375 495 657.875 395 687.875 C295 657.875 165 539.375 165 409.375 Z"/></clipPath>
+  <g clip-path="url(#ic-mark)"><rect width="395" height="800" fill="#3D68EA"/><rect x="395" width="405" height="800" fill="#2449C6"/></g>
+</svg>

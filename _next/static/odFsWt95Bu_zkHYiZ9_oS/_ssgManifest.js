@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fboletim\u002F[data]","\u002Fboletim\u002Fsemana\u002F[data]","\u002Fepisodios\u002F[id]","\u002Floja\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
